@@ -28,7 +28,7 @@ listaNumeros = ([1, 2, 3], [5, 6, 7])
 print(listaNumeros)
 # Adicionando elementos às listas
 listaNumeros[0].append(4)
-listaNumeros[1]. append(8)
+listaNumeros[1].append(8)
 print(listaNumeros)
 
 # Concatenação de tupla
