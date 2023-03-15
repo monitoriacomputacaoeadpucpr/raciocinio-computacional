@@ -1,5 +1,5 @@
 listaUm = list(range(1, 11))
-listaDois = ["Esta", "Frase", "Está", "Legal"]
+listaDois = ["Esta", "Frase", "É", "Legal"]
 listaTres = []
 
 print(listaUm)
