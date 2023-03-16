@@ -1,11 +1,6 @@
-listaUm = list(range(1, 11))
-listaDois = ["Esta", "Frase", "É", "Legal"]
-listaTres = []
+listaUm = "Esta frase é legal"
 
 print(listaUm)
 
-for numero in listaUm:
-    resultado = numero * 2
-    listaTres.append(resultado)
-
-print(listaTres)
+for letra in listaUm:
+    print(letra)
