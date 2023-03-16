@@ -10,3 +10,4 @@ while contador <= 10:
         continue
     elif contador == 9:
         print(f"Contador em {contador}, vou sair do loop")
+        break
